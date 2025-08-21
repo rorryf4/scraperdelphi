@@ -1,0 +1,317 @@
+[
+
+[
+  { "url": "https://news.google.com/rss/search?q=site:nola.com%20Saints&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Saints"] },
+  { "url": "https://news.google.com/rss/search?q=site:theadvocate.com%20Saints&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Saints"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:ajc.com%20Falcons&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Falcons"] },
+  { "url": "https://news.google.com/rss/search?q=site:theathletic.com%20Falcons%20OR%20Atlanta%20Falcons&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["National","NFL","Falcons"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:tampabay.com%20Buccaneers%20OR%20Bucs&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Buccaneers"] },
+  { "url": "https://news.google.com/rss/search?q=site:theathletic.com%20Buccaneers%20OR%20Tampa%20Bay%20Buccaneers&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["National","NFL","Buccaneers"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:baltimoresun.com%20Ravens&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Ravens"] },
+  { "url": "https://news.google.com/rss/search?q=site:theathletic.com%20Ravens%20OR%20Baltimore%20Ravens&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["National","NFL","Ravens"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:bostonglobe.com%20Patriots%20OR%20New%20England%20Patriots&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Patriots"] },
+  { "url": "https://news.google.com/rss/search?q=site:masslive.com%20Patriots%20OR%20New%20England%20Patriots&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Patriots"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:buffalonews.com%20Bills%20OR%20Buffalo%20Bills&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Bills"] },
+  { "url": "https://news.google.com/rss/search?q=site:theathletic.com%20Bills%20OR%20Buffalo%20Bills&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["National","NFL","Bills"] }
+
+  { "url": "https://news.google.com/rss/search?q=site:nydailynews.com%20New%20York%20Jets&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","Jets"] },
+  { "url": "https://news.google.com/rss/search?q=site:jetswire.usatoday.com%20Jets&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Blog","NFL","Jets"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:miamiherald.com%20Miami%20Dolphins&hl=en-US&gl=US&ceid=US:en",  "source": "Google News", "tags": ["Local","NFL","Dolphins"] },
+  { "url": "https://news.google.com/rss/search?q=site:sun-sentinel.com%20Dolphins&hl=en-US&gl=US&ceid=US:en",        "source": "Google News", "tags": ["Local","NFL","Dolphins"] }
+
+  { "url": "https://news.google.com/rss/search?q=site:cincinnati.com%20Bengals&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Local","NFL","Bengals"] },
+  { "url": "https://news.google.com/rss/search?q=site:cincyjungle.com%20Bengals&hl=en-US&gl=US&ceid=US:en",          "source": "Google News", "tags": ["Blog","NFL","Bengals"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:cleveland.com%20Browns&hl=en-US&gl=US&ceid=US:en",             "source": "Google News", "tags": ["Local","NFL","Browns"] },
+  { "url": "https://news.google.com/rss/search?q=site:dawgsbynature.com%20Browns&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Blog","NFL","Browns"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:post-gazette.com%20Steelers&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Local","NFL","Steelers"] },
+  { "url": "https://news.google.com/rss/search?q=site:behindthesteelcurtain.com%20Steelers&hl=en-US&gl=US&ceid=US:en","source": "Google News", "tags": ["Blog","NFL","Steelers"] }
+
+  { "url": "https://news.google.com/rss/search?q=site:houstonchronicle.com%20Texans&hl=en-US&gl=US&ceid=US:en",       "source": "Google News", "tags": ["Local","NFL","Texans"] },
+{ "url": "https://news.google.com/rss/search?q=site:battleredblog.com%20Texans&hl=en-US&gl=US&ceid=US:en",          "source": "Google News", "tags": ["Blog","NFL","Texans"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:indystar.com%20Colts&hl=en-US&gl=US&ceid=US:en",                "source": "Google News", "tags": ["Local","NFL","Colts"] },
+{ "url": "https://news.google.com/rss/search?q=site:stampedeblue.com%20Colts&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Blog","NFL","Colts"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:jacksonville.com%20Jaguars&hl=en-US&gl=US&ceid=US:en",          "source": "Google News", "tags": ["Local","NFL","Jaguars"] },
+{ "url": "https://news.google.com/rss/search?q=site:bigcatcountry.com%20Jaguars&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Blog","NFL","Jaguars"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:tennessean.com%20Titans&hl=en-US&gl=US&ceid=US:en",             "source": "Google News", "tags": ["Local","NFL","Titans"] },
+{ "url": "https://news.google.com/rss/search?q=site:musiccitymiracles.com%20Titans&hl=en-US&gl=US&ceid=US:en",      "source": "Google News", "tags": ["Blog","NFL","Titans"] }
+
+{ "url": "https://news.google.com/rss/search?q=site:denverpost.com%20Broncos&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Local","NFL","Broncos"] },
+{ "url": "https://news.google.com/rss/search?q=site:milehighreport.com%20Broncos&hl=en-US&gl=US&ceid=US:en",        "source": "Google News", "tags": ["Blog","NFL","Broncos"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:kansascity.com%20Chiefs&hl=en-US&gl=US&ceid=US:en",             "source": "Google News", "tags": ["Local","NFL","Chiefs"] },
+{ "url": "https://news.google.com/rss/search?q=site:arrowheadpride.com%20Chiefs&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Blog","NFL","Chiefs"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:reviewjournal.com%20Raiders&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Local","NFL","Raiders"] },
+{ "url": "https://news.google.com/rss/search?q=site:silverandblackpride.com%20Raiders&hl=en-US&gl=US&ceid=US:en",   "source": "Google News", "tags": ["Blog","NFL","Raiders"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:latimes.com%20Chargers&hl=en-US&gl=US&ceid=US:en",              "source": "Google News", "tags": ["Local","NFL","Chargers"] },
+{ "url": "https://news.google.com/rss/search?q=site:chargerswire.usatoday.com%20Chargers&hl=en-US&gl=US&ceid=US:en","source": "Google News", "tags": ["Blog","NFL","Chargers"] }
+
+{ "url": "https://news.google.com/rss/search?q=site:dallasnews.com%20Cowboys&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Local","NFL","Cowboys"] },
+{ "url": "https://news.google.com/rss/search?q=site:bloggingtheboys.com%20Cowboys&hl=en-US&gl=US&ceid=US:en",       "source": "Google News", "tags": ["Blog","NFL","Cowboys"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:northjersey.com%20Giants&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Local","NFL","Giants"] },
+{ "url": "https://news.google.com/rss/search?q=site:bigblueview.com%20Giants&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Blog","NFL","Giants"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:inquirer.com%20Eagles&hl=en-US&gl=US&ceid=US:en",               "source": "Google News", "tags": ["Local","NFL","Eagles"] },
+{ "url": "https://news.google.com/rss/search?q=site:bleedinggreennation.com%20Eagles&hl=en-US&gl=US&ceid=US:en",    "source": "Google News", "tags": ["Blog","NFL","Eagles"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:washingtonpost.com%20Commanders&hl=en-US&gl=US&ceid=US:en",     "source": "Google News", "tags": ["Local","NFL","Commanders"] },
+{ "url": "https://news.google.com/rss/search?q=site:hogshaven.com%20Commanders&hl=en-US&gl=US&ceid=US:en",          "source": "Google News", "tags": ["Blog","NFL","Commanders"] }
+
+{ "url": "https://news.google.com/rss/search?q=site:chicagotribune.com%20Bears&hl=en-US&gl=US&ceid=US:en",          "source": "Google News", "tags": ["Local","NFL","Bears"] },
+{ "url": "https://news.google.com/rss/search?q=site:windycitygridiron.com%20Bears&hl=en-US&gl=US&ceid=US:en",       "source": "Google News", "tags": ["Blog","NFL","Bears"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:freep.com%20Lions&hl=en-US&gl=US&ceid=US:en",                   "source": "Google News", "tags": ["Local","NFL","Lions"] },
+{ "url": "https://news.google.com/rss/search?q=site:prideofdetroit.com%20Lions&hl=en-US&gl=US&ceid=US:en",          "source": "Google News", "tags": ["Blog","NFL","Lions"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:jsonline.com%20Packers&hl=en-US&gl=US&ceid=US:en",              "source": "Google News", "tags": ["Local","NFL","Packers"] },
+{ "url": "https://news.google.com/rss/search?q=site:acmepackingcompany.com%20Packers&hl=en-US&gl=US&ceid=US:en",    "source": "Google News", "tags": ["Blog","NFL","Packers"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:startribune.com%20Vikings&hl=en-US&gl=US&ceid=US:en",           "source": "Google News", "tags": ["Local","NFL","Vikings"] },
+{ "url": "https://news.google.com/rss/search?q=site:dailynorseman.com%20Vikings&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Blog","NFL","Vikings"] }
+
+{ "url": "https://news.google.com/rss/search?q=site:azcentral.com%20Cardinals&hl=en-US&gl=US&ceid=US:en",           "source": "Google News", "tags": ["Local","NFL","Cardinals"] },
+{ "url": "https://news.google.com/rss/search?q=site:revengeofthebirds.com%20Cardinals&hl=en-US&gl=US&ceid=US:en",   "source": "Google News", "tags": ["Blog","NFL","Cardinals"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:latimes.com%20Rams&hl=en-US&gl=US&ceid=US:en",                  "source": "Google News", "tags": ["Local","NFL","Rams"] },
+{ "url": "https://news.google.com/rss/search?q=site:turfshowtimes.com%20Rams&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Blog","NFL","Rams"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:mercurynews.com%20San%20Francisco%2049ers&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","NFL","49ers"] },
+{ "url": "https://news.google.com/rss/search?q=site:ninersnation.com%2049ers&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Blog","NFL","49ers"] },
+
+{ "url": "https://news.google.com/rss/search?q=site:seattletimes.com%20Seahawks&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Local","NFL","Seahawks"] },
+{ "url": "https://news.google.com/rss/search?q=site:fieldgulls.com%20Seahawks&hl=en-US&gl=US&ceid=US:en",           "source": "Google News", "tags": ["Blog","NFL","Seahawks"] }
+
+
+]
+
+[
+  { "url": "https://news.google.com/rss/search?q=site:theadvocate.com%20LSU%20football%20OR%20Tigers&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","LSU"] },
+  { "url": "https://news.google.com/rss/search?q=site:nola.com%20LSU%20football%20OR%20Tigers&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","LSU"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:al.com%20Alabama%20football%20OR%20Crimson%20Tide&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Alabama"] },
+  { "url": "https://news.google.com/rss/search?q=site:oanow.com%20Auburn%20football%20OR%20Tigers&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Auburn"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:onlineathens.com%20Georgia%20football%20OR%20Bulldogs&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Georgia"] },
+  { "url": "https://news.google.com/rss/search?q=site:gainesville.com%20Florida%20Gators%20football%20OR%20Gators&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Florida"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:thestate.com%20South%20Carolina%20football%20OR%20Gamecocks&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","South%20Carolina"] },
+  { "url": "https://news.google.com/rss/search?q=site:arkansasonline.com%20Arkansas%20football%20OR%20Razorbacks&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Arkansas"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:clarionledger.com%20Mississippi%20State%20football%20OR%20Bulldogs&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Mississippi%20State"] },
+  { "url": "https://news.google.com/rss/search?q=site:oxfordeagle.com%20Ole%20Miss%20football%20OR%20Rebels&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Ole%20Miss"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:columbiatribune.com%20Missouri%20football%20OR%20Tigers&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Missouri"] },
+  { "url": "https://news.google.com/rss/search?q=site:kentucky.com%20Kentucky%20football%20OR%20Wildcats&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Kentucky"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:knoxnews.com%20Tennessee%20football%20OR%20Vols&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Tennessee"] },
+  { "url": "https://news.google.com/rss/search?q=site:tennessean.com%20Vanderbilt%20football%20OR%20Commodores&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Vanderbilt"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:theeagle.com%20Texas%20A%26M%20football%20OR%20Aggies&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Texas%20A%26M"] }
+]
+
+[
+  { "url": "https://news.google.com/rss/search?q=site:dispatch.com%20Ohio%20State%20football&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Ohio State"] },
+  { "url": "https://news.google.com/rss/search?q=site:elevenwarriors.com%20Ohio%20State&hl=en-US&gl=US&ceid=US:en",       "source": "Google News", "tags": ["Local","CFB","Ohio State"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:mlive.com%20Michigan%20Wolverines%20football&hl=en-US&gl=US&ceid=US:en",   "source": "Google News", "tags": ["Local","CFB","Michigan"] },
+  { "url": "https://news.google.com/rss/search?q=site:annarbornews.com%20Michigan%20football&hl=en-US&gl=US&ceid=US:en",        "source": "Google News", "tags": ["Local","CFB","Michigan"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:centredaily.com%20Penn%20State%20football&hl=en-US&gl=US&ceid=US:en",     "source": "Google News", "tags": ["Local","CFB","Penn State"] },
+  { "url": "https://news.google.com/rss/search?q=site:statecollege.com%20Penn%20State%20football&hl=en-US&gl=US&ceid=US:en",    "source": "Google News", "tags": ["Local","CFB","Penn State"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:jsonline.com%20Wisconsin%20Badgers%20football&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Wisconsin"] },
+  { "url": "https://news.google.com/rss/search?q=site:madison.com%20Badgers%20football&hl=en-US&gl=US&ceid=US:en",              "source": "Google News", "tags": ["Local","CFB","Wisconsin"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:thegazette.com%20Iowa%20Hawkeyes%20football&hl=en-US&gl=US&ceid=US:en",   "source": "Google News", "tags": ["Local","CFB","Iowa"] },
+  { "url": "https://news.google.com/rss/search?q=site:press-citizen.com%20Iowa%20football&hl=en-US&gl=US&ceid=US:en",           "source": "Google News", "tags": ["Local","CFB","Iowa"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:lansingstatejournal.com%20Michigan%20State%20football&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Michigan State"] },
+  { "url": "https://news.google.com/rss/search?q=site:mlive.com%20Michigan%20State%20football&hl=en-US&gl=US&ceid=US:en",             "source": "Google News", "tags": ["Local","CFB","Michigan State"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:startribune.com%20Gophers%20football&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Local","CFB","Minnesota"] },
+  { "url": "https://news.google.com/rss/search?q=site:twincities.com%20Gophers%20football&hl=en-US&gl=US&ceid=US:en",          "source": "Google News", "tags": ["Local","CFB","Minnesota"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:newsgazette.com%20Illinois%20football&hl=en-US&gl=US&ceid=US:en",        "source": "Google News", "tags": ["Local","CFB","Illinois"] },
+  { "url": "https://news.google.com/rss/search?q=site:chicagotribune.com%20Illinois%20football&hl=en-US&gl=US&ceid=US:en",     "source": "Google News", "tags": ["Local","CFB","Illinois"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:heraldtimesonline.com%20Indiana%20Hoosiers%20football&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Indiana"] },
+  { "url": "https://news.google.com/rss/search?q=site:indystar.com%20Indiana%20football&hl=en-US&gl=US&ceid=US:en",                   "source": "Google News", "tags": ["Local","CFB","Indiana"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:dailynorthwestern.com%20Northwestern%20football&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Northwestern"] },
+  { "url": "https://news.google.com/rss/search?q=site:chicagotribune.com%20Northwestern%20football&hl=en-US&gl=US&ceid=US:en",  "source": "Google News", "tags": ["Local","CFB","Northwestern"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:jconline.com%20Purdue%20football&hl=en-US&gl=US&ceid=US:en",              "source": "Google News", "tags": ["Local","CFB","Purdue"] },
+  { "url": "https://news.google.com/rss/search?q=site:wlfi.com%20Purdue%20football&hl=en-US&gl=US&ceid=US:en",                  "source": "Google News", "tags": ["Local","CFB","Purdue"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:omaha.com%20Nebraska%20football%20OR%20Huskers&hl=en-US&gl=US&ceid=US:en",       "source": "Google News", "tags": ["Local","CFB","Nebraska"] },
+  { "url": "https://news.google.com/rss/search?q=site:journalstar.com%20Nebraska%20football%20OR%20Huskers&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Nebraska"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:baltimoresun.com%20Maryland%20Terrapins%20football&hl=en-US&gl=US&ceid=US:en",   "source": "Google News", "tags": ["Local","CFB","Maryland"] },
+  { "url": "https://news.google.com/rss/search?q=site:washingtonpost.com%20Maryland%20football&hl=en-US&gl=US&ceid=US:en",            "source": "Google News", "tags": ["Local","CFB","Maryland"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:nj.com%20Rutgers%20football&hl=en-US&gl=US&ceid=US:en",                    "source": "Google News", "tags": ["Local","CFB","Rutgers"] },
+  { "url": "https://news.google.com/rss/search?q=site:app.com%20Rutgers%20football&hl=en-US&gl=US&ceid=US:en",                   "source": "Google News", "tags": ["Local","CFB","Rutgers"] },
+
+  { "url": "https://news.google.com/rss/search?q=site:oregonlive.com%20Oregon%20Ducks%20football&hl=en-US&gl=US&ceid=US:en",    "source": "Google News", "tags": ["Local","CFB","Oregon"] },
+  { "url": "https://news.google.com/rss/search?q=site:seattletimes.com%20Washington%20Huskies%20football&hl=en-US&gl=US&ceid=US:en", "source": "Google News", "tags": ["Local","CFB","Washington"] },
+  { "url": "https://news.google.com/rss/search?q=site:latimes.com%20USC%20Trojans%20football&hl=en-US&gl=US&ceid=US:en",         "source": "Google News", "tags": ["Local","CFB","USC"] },
+  { "url": "https://news.google.com/rss/search?q=site:dailynews.com%20UCLA%20football&hl=en-US&gl=US&ceid=US:en",               "source": "Google News", "tags": ["Local","CFB","UCLA"] }
+]
+
+
+  {"url": "https://www.espn.com/espn/rss/nfl/news", "source": "https://www.espn.com", "tags": ["ESPN","NFL"]},
+  {"url": "https://www.espn.com/espn/rss/ncf/news", "source": "https://www.espn.com", "tags": ["ESPN","CFB"]},
+
+  {"url": "https://www.reddit.com/r/CFB/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","CFB"]},
+
+  {"url": "https://www.neworleanssaints.com/rss/news", "source": "https://www.neworleanssaints.com", "tags": ["TEAM","Saints"]},
+  {"url": "https://www.atlantafalcons.com/rss/news",   "source": "https://www.atlantafalcons.com",   "tags": ["TEAM","Falcons"]},
+  {"url": "https://www.buccaneers.com/rss/news",       "source": "https://www.buccaneers.com",       "tags": ["TEAM","Buccaneers"]},
+  {"url": "https://www.baltimoreravens.com/rss/news",  "source": "https://www.baltimoreravens.com",  "tags": ["TEAM","Ravens"]},
+  {"url": "https://www.patriots.com/rss/news",         "source": "https://www.patriots.com",         "tags": ["TEAM","Patriots"]},
+  {"url": "https://www.buffalobills.com/rss/news",     "source": "https://www.buffalobills.com",     "tags": ["TEAM","Bills"]},
+{
+  "url": "https://www.reddit.com/r/NFL/.rss",
+  "source": "https://www.reddit.com",
+  "tags": ["Reddit","NFL"]
+},
+{
+  "url": "https://www.reddit.com/r/CFB/.rss",
+  "source": "https://www.reddit.com",
+  "tags": ["Reddit","CFB"]
+},
+{
+  "url": "https://www.reddit.com/r/CFBAnalysis/.rss",
+  "source": "https://www.reddit.com",
+  "tags": ["Reddit","CFB","Analysis"]
+},
+
+[
+  { "url": "https://www.reddit.com/r/buffalobills/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Bills"] },
+  { "url": "https://www.reddit.com/r/miamidolphins/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Dolphins"] },
+  { "url": "https://www.reddit.com/r/Patriots/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Patriots"] },
+  { "url": "https://www.reddit.com/r/nyjets/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Jets"] },
+
+  { "url": "https://www.reddit.com/r/ravens/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Ravens"] },
+  { "url": "https://www.reddit.com/r/bengals/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Bengals"] },
+  { "url": "https://www.reddit.com/r/browns/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Browns"] },
+  { "url": "https://www.reddit.com/r/steelers/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Steelers"] },
+
+  { "url": "https://www.reddit.com/r/Texans/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Texans"] },
+  { "url": "https://www.reddit.com/r/Colts/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Colts"] },
+  { "url": "https://www.reddit.com/r/Jaguars/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Jaguars"] },
+  { "url": "https://www.reddit.com/r/Tennesseetitans/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Titans"] },
+
+  { "url": "https://www.reddit.com/r/denverbroncos/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Broncos"] },
+  { "url": "https://www.reddit.com/r/KansasCityChiefs/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Chiefs"] },
+  { "url": "https://www.reddit.com/r/raiders/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Raiders"] },
+  { "url": "https://www.reddit.com/r/CHIBears/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Bears"] },
+
+  { "url": "https://www.reddit.com/r/detroitlions/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Lions"] },
+  { "url": "https://www.reddit.com/r/GreenBayPackers/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Packers"] },
+  { "url": "https://www.reddit.com/r/minnesotavikings/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Vikings"] },
+
+  { "url": "https://www.reddit.com/r/dallascowboys/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Cowboys"] },
+  { "url": "https://www.reddit.com/r/NYGiants/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Giants"] },
+  { "url": "https://www.reddit.com/r/eagles/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Eagles"] },
+  { "url": "https://www.reddit.com/r/washingtonNFL/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Commanders"] },
+
+  { "url": "https://www.reddit.com/r/AtlantaFalcons/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Falcons"] },
+  { "url": "https://www.reddit.com/r/CarolinaPanthers/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Panthers"] },
+  { "url": "https://www.reddit.com/r/saints/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Saints"] },
+  { "url": "https://www.reddit.com/r/buccaneers/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Buccaneers"] },
+
+  { "url": "https://www.reddit.com/r/azcardinals/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Cardinals"] },
+  { "url": "https://www.reddit.com/r/losangelesrams/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Rams"] },
+  { "url": "https://www.reddit.com/r/49ers/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","49ers"] },
+  { "url": "https://www.reddit.com/r/Seahawks/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","NFL","Seahawks"] }
+]
+// Team subs (for the NFL teams you named earlier)
+[
+  { "url": "https://www.reddit.com/r/CFB/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","CFB"] },
+  { "url": "https://www.reddit.com/r/CFBAnalysis/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","CFBAnalysis"] },
+
+  { "url": "https://www.reddit.com/r/rolltide/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Alabama"] },
+  { "url": "https://www.reddit.com/r/warblogle/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Auburn"] },
+  { "url": "https://www.reddit.com/r/FloridaGators/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Florida"] },
+  { "url": "https://www.reddit.com/r/GeorgiaBulldogs/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Georgia"] },
+  { "url": "https://www.reddit.com/r/LSUFootball/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","LSU"] },
+  { "url": "https://www.reddit.com/r/KentuckyWildcats/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Kentucky"] },
+  { "url": "https://www.reddit.com/r/MississippiState/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","MissSt"] },
+  { "url": "https://www.reddit.com/r/olemiss/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","OleMiss"] },
+  { "url": "https://www.reddit.com/r/MizzouFootball/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Mizzou"] },
+  { "url": "https://www.reddit.com/r/Gamecocks/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","SouthCarolina"] },
+  { "url": "https://www.reddit.com/r/TennesseeVols/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Tennessee"] },
+  { "url": "https://www.reddit.com/r/aggies/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","TexasA&M"] },
+  { "url": "https://www.reddit.com/r/razorbacks/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Arkansas"] },
+  { "url": "https://www.reddit.com/r/vandy/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Vanderbilt"] },
+
+  { "url": "https://www.reddit.com/r/OhioStateFootball/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","OhioState"] },
+  { "url": "https://www.reddit.com/r/MichiganWolverines/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Michigan"] },
+  { "url": "https://www.reddit.com/r/BadgerFootball/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Wisconsin"] },
+  { "url": "https://www.reddit.com/r/PennStateUniversity/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","PennState"] },
+  { "url": "https://www.reddit.com/r/HawkeyeFootball/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Iowa"] },
+  { "url": "https://www.reddit.com/r/GophersFootball/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Minnesota"] },
+  { "url": "https://www.reddit.com/r/NebraskaCornhuskers/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Nebraska"] },
+  { "url": "https://www.reddit.com/r/IllinoisFootball/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Illinois"] },
+  { "url": "https://www.reddit.com/r/IndianaHoosiers/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Indiana"] },
+  { "url": "https://www.reddit.com/r/MichiganState/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","MichiganState"] },
+  { "url": "https://www.reddit.com/r/Northwestern/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Northwestern"] },
+  { "url": "https://www.reddit.com/r/Purdue/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Purdue"] },
+  { "url": "https://www.reddit.com/r/MarylandTerrapins/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Maryland"] },
+  { "url": "https://www.reddit.com/r/RutgersFootball/.rss", "source": "https://www.reddit.com", "tags": ["Reddit","College","Rutgers"] }
+]
+
+[
+  { "url": "https://sports.yahoo.com/nfl/rss.xml", "source": "Yahoo Sports", "tags": ["NFL","News"] },
+  { "url": "https://sports.yahoo.com/college-football/rss.xml", "source": "Yahoo Sports", "tags": ["College","News"] }
+]
+
+[
+  { "url": "https://www.cbssports.com/rss/headlines/nfl/", "source": "CBS Sports", "tags": ["NFL","News"] },
+  { "url": "https://www.cbssports.com/rss/headlines/ncaaf/", "source": "CBS Sports", "tags": ["College","News"] }
+]
+
+
+{
+  "url": "https://sports.yahoo.com/nfl/rss.xml",
+  "source": "https://sports.yahoo.com",
+  "tags": ["Yahoo","NFL"]
+},
+{
+  "url": "https://sports.yahoo.com/college-football/rss.xml",
+  "source": "https://sports.yahoo.com",
+  "tags": ["Yahoo","CFB"]
+}
+
+{
+  "url": "https://www.cbssports.com/rss/headlines/nfl/",
+  "source": "https://www.cbssports.com",
+  "tags": ["CBS","NFL"]
+},
+{
+  "url": "https://www.cbssports.com/rss/headlines/college-football/",
+  "source": "https://www.cbssports.com",
+  "tags": ["CBS","CFB"]
+}
+
+
+  // SEC via RSS where available — keep it simple:
+  {"url": "https://floridagators.com/rss.aspx?path=football", "source": "https://floridagators.com", "tags": ["TEAM","Florida"]}
+
+  // If you discover more RSS later, just add more objects here.
+]
+
