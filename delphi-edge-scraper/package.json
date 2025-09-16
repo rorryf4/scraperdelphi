@@ -1,11 +1,12 @@
 {
   "name": "delphi-scraper",
-  "version": "1.0.0",
-  "type": "module",
-  "engines": { "node": ">=16" },
+  "private": true,
+  "type": "commonjs",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
   },
   "dependencies": {
     "cors": "^2.8.5",
